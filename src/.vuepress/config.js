@@ -1,5 +1,5 @@
 module.exports = {
-    title: "松ケ丘小学校おやじの会",
+    title: "松ケ丘小学校おやじの会（β）",
     description: "「できる時に、できる事を、できる人が」を合言葉に、児童、地域にかかわりながら、和気あいあい、楽しく活動している会です。",
     head: [
         ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
@@ -19,15 +19,15 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: "HOME", link: "/" },
-            { text: "おやじの会とは", link: "/about.html" },
-            { text: "新着お知らせ", link: "/updates/" },
+            { text: "ABOUT", items: [
+                { text: "おやじの会とは", link: "/about/" },
+                { text: "活動内容", link: "/about/activities.html" },
+                { text: "校長先生より", link: "/about/principal.html" },
+                { text: "会員規約", link: "/about/rules.html" }
+            ] },
+            { text: "NEWS", link: "/news/" },
+            { text: "LINKS", link: "/links.html" },
             { text: "入会はこちら", link: "/joinus.html" }
-        ],
-        sidebar: [
-            '/principal.html',
-            '/activity.html',
-            '/links.html',
-            '/rules.html'
         ],
     }
 };
