@@ -7,7 +7,7 @@ module.exports = {
         ['link', { rel: 'apple-touch-icon', type: 'image/png', href: '/favicon/apple-touch-icon-180x180.png' }],
         ['meta', { name: 'og:url', content: 'http://matsu-oyaji.net/' }],
         ['meta', { name: 'og:type', content: 'website' }],
-        ['meta', { name: 'og:title', content: 'Sample Site' }],
+        ['meta', { name: 'og:title', content: '松ケ丘小学校おやじの会' }],
         ['meta', { name: 'og:description', content: '松ケ丘小学校おやじの会のホームページ。' }],
         ['meta', { name: 'og:image', content: '/og.png' }]
     ],
@@ -17,6 +17,8 @@ module.exports = {
         }
     },
     themeConfig: {
+        lastUpdated: 'Last Updated',
+        logo: "/img/icon-160x160.png",
         nav: [
             { text: "HOME", link: "/" },
             { text: "ABOUT", items: [
