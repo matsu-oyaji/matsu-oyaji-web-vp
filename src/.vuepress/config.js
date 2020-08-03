@@ -20,16 +20,11 @@ module.exports = {
         lastUpdated: 'Last Updated',
         logo: "/img/icon-160x160.png",
         nav: [
-            { text: "HOME", link: "/" },
-            { text: "ABOUT", items: [
-                { text: "おやじの会とは", link: "/about/" },
-                { text: "活動内容", link: "/about/activities.html" },
-                { text: "校長先生より", link: "/about/principal.html" },
-                { text: "会員規約", link: "/about/rules.html" }
-            ] },
-            { text: "NEWS", link: "/news/" },
-            { text: "LINKS", link: "/links.html" },
-            { text: "入会", link: "/joinus.html" }
+            { text: "ホーム", link: "/" },
+            { text: "活動内容", link: "/about/activities.html" },
+            { text: "校長先生より", link: "/about/principal.html" },
+            { text: "リンク", link: "/links.html" },
+            { text: "お問い合わせ", link: "/inquiry.html" }
         ],
     }
 };
