@@ -29,7 +29,7 @@ module.exports = {
             ] },
             { text: "NEWS", link: "/news/" },
             { text: "LINKS", link: "/links.html" },
-            { text: "入会はこちら", link: "/joinus.html" }
+            { text: "入会", link: "/joinus.html" }
         ],
     }
 };
