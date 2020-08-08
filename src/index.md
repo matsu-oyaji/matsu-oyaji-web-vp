@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.gif
-footer: Copyright（C）Oyajinokai All right reserved
+footer: (c) 松ケ丘小学校おやじの会
 ---
 
 ::: warning 2020年度の【夏祭り】の中止について
