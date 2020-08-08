@@ -21,7 +21,7 @@ module.exports = {
         logo: "/img/icon-160x160.png",
         nav: [
             { text: "ホーム", link: "/" },
-            { text: "活動内容", link: "/about/activities.html" },
+            // { text: "活動内容", link: "/about/activities.html" },
             { text: "校長先生より", link: "/about/principal.html" },
             { text: "リンク", link: "/links.html" },
             { text: "お問い合わせ", link: "/inquiry.html" }
