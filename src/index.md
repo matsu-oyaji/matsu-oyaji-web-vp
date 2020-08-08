@@ -1,6 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.gif
+footer: Copyright（C）Oyajinokai All right reserved
 ---
 
 ::: warning 2020年度の【夏祭り】の中止について
