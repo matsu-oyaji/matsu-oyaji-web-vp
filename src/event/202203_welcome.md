@@ -19,6 +19,12 @@
 ああああああああああああああああああああああああああああああああああ<br>
 ああああああああああああああああああああああああああああああああああ<br>
 
+## おやじの会から
+おやじの会から歓迎のメッセージです。<br>
+ああああああああああああああああああああああああああああ<br>
+（動画はサンプルです）<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q84pn-t2CZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 学校探検
 学校内を紹介するため探検してきました。
 
@@ -29,12 +35,6 @@
 ### 動画2
 （動画はサンプルです）<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Shn-1um5uZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## おやじの会から
-おやじの会から歓迎のメッセージです。<br>
-ああああああああああああああああああああああああああああ<br>
-（動画はサンプルです）<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q84pn-t2CZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## PTAクラブ紹介
 PTAのクラブ紹介だよ。
