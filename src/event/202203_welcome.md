@@ -28,13 +28,7 @@
 ## 学校探検
 学校内を紹介するため探検してきました。
 
-### 動画1
-（動画はサンプルです）<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZysEeZx-Ifk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### 動画2
-（動画はサンプルです）<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Shn-1um5uZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gH68lAdt99I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## PTAクラブ紹介
 PTAのクラブ紹介だよ。
