@@ -33,23 +33,23 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VzcN1voETAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 00:00 開始
-- 00:15 下駄箱
-- 00:34 図書室
-- 01:35 教室
-- 02:23 理科室
-- 03:12 音楽室
-- 04:07 コンピューター室
-- 04:39 イングリッシュルーム
-- 05:11 図工室
-- 05:34 家庭科室
-- 06:29 保健室
-- 06:51 放送室
-- 07:25 職員室
-- 08:08 体育館
-- 08:37 グランド
-- 09:15 教頭先生挨拶
-- 09:39 校長室
+* 00:00 開始
+* 00:15 下駄箱
+* 00:34 図書室
+* 01:35 教室
+* 02:23 理科室
+* 03:12 音楽室
+* 04:07 コンピューター室
+* 04:39 イングリッシュルーム
+* 05:11 図工室
+* 05:34 家庭科室
+* 06:29 保健室
+* 06:51 放送室
+* 07:25 職員室
+* 08:08 体育館
+* 08:37 グランド
+* 09:15 教頭先生挨拶
+* 09:39 校長室
 
 ## おやじの会について
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QX2ztI6grJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -62,67 +62,60 @@
 </div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FgzO9ezI4O8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-松ヶ丘ミニバスケットボール女子スポーツ少年団
+#### :basketball: 松ヶ丘ミニバスケットボール女子スポーツ少年団 :basketball: 
 
-【新規団員大募集中！】
+**【新規団員大募集中！】**<br>
+こんにちは！<br>
+私達は、松ヶ丘小学校体育館を拠点に活動している<br>
+女子ミニバスケットボールチームです。<br>
+28年の活動の中で、全国大会に出場するなど、経験豊かなチームの現在のメンバーは全部で11人！<br>
 
-こんにちは！
-私達は、松ヶ丘小学校体育館を拠点に活動している
-女子ミニバスケットボールチームです。
-
-28年の活動の中で、全国大会に出場するなど、経験豊かなチームの
-現在のメンバーは全部で11人！
-
-新五年生　2名
-新四年生　6名
-新三年生　1名
-新一年生　2名
+* 新五年生　2名
+* 新四年生　6名
+* 新三年生　1名
+* 新一年生　2名
 
 で楽しく練習しています。
 
+#### 練習日
 
-練習日
-火曜　17:00〜19:00
-水曜　17:00〜19:00
-金曜　17:00〜19:20
-土曜　16:00〜19:00
-　　　（雨天16:30〜）
-日曜　10:30〜12:30
-※土日祝は練習試合や大会参加の場合も有ります。
-※各種イベント・レクリエーションも有ります❤️
-★練習は週1回〜でもOK！
+|     |     |
+| --- | --- |
+| 火曜　| 17:00〜19:00 |
+| 水曜　| 17:00〜19:00 |
+| 金曜　| 17:00〜19:20 |
+| 土曜　| 16:00〜19:00（雨天16:30〜） |
+| 日曜　| 10:30〜12:30 |
 
+* 土日祝は練習試合や大会参加の場合も有ります。
+* 各種イベント・レクリエーションも有ります❤️
+* 練習は週1回〜でもOK！
 
-練習場所
-松ヶ丘小学校体育館
-※松が丘小学校児童クラブまでは、お迎えが可能です。
+#### 練習場所
+松ヶ丘小学校体育館<br>
+（松が丘小学校児童クラブまでは、お迎えが可能です。）
 
+少人数のため、一人一人をしっかり見てくれるコーチ陣。<br>
+優しく教えてくれる明るく元気な仲間たち。<br>
+わきあいあいとした雰囲気の中で、一緒にチームスポーツをやってみませんか？<br>
 
-少人数のため、一人一人をしっかり見てくれるコーチ陣。
-優しく教えてくれる明るく元気な仲間たち。
-わきあいあいとした雰囲気の中で、一緒にチームスポーツをやってみませんか？
+#### ★★★体験会やります！★★★
 
+* 日時:4/17 日曜日  10時半〜12時半
+* 場所:松ヶ丘体育館
+* 持ち物:上履き・水筒・タオル・マスク
+* 服装:動きやすい服装（体操着など）
 
-★★★体験会やります！★★★
-日時:4/17 日曜日  10時半〜12時半
-場所:松ヶ丘体育館
-持ち物:上履き・水筒・タオル・マスク
-服装:動きやすい服装（体操着など）
-※体験会の事前連絡は不要です。
-お気軽にお越し下さい♪
+※ 体験会の事前連絡は不要です。お気軽にお越し下さい♪
 
-
-まずは見学・体験から！
-ご連絡はコチラまで。
-お待ちしております！
-
-松ヶ丘ミニバス
-matsuminibas@yahoo.co.jp
+まずは見学・体験から！<br>
+ご連絡はコチラまで。お待ちしております！<br>
+**松ヶ丘ミニバス**: [matsuminibas@yahoo.co.jp](mailto:matsuminibas@yahoo.co.jp)
 
 ### 守谷クラブ（ハンドボール）
 ハンドボール少年団守谷クラブです！！<br>ハンドボールとは「走る・飛ぶ・投げる」の運動の基礎となる3大要素をフルに使い、スピード感あふれる試合展開で得点を競い合う、とってもエキサイティングなスポーツです。 ハンドボールをとおして思いやりや自立心など精神的にも大きく成長できます！<br>
 主な活動日 毎週 水・金 17:00〜19:00 (高野小体育館) 毎週 土・日 9:00〜12:00 (高野小グラウンド) 土日のみの参加等、 ご都合に合わせて参加OKです!<br>
-（<a href="/img/event/202203_welcome/handball_moriya_club.pdf">パンフレット:PDF</a>）<br>
+（[パンフレット:PDF](/img/event/202203_welcome/handball_moriya_club.pdf)）<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3_NCZt5JE-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 松ケ丘エース（ソフトボール）
