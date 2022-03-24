@@ -26,7 +26,10 @@
 
 <br style="clear:both">
 
+<br>
+
 ## 学校探検
+<br>
 われわれおやじの会では例年入学前の春休みに新入生と保護者の皆さまを小学校に招待して「新入児童・保護者歓迎会」というイベントを開催していました。<br>
 残念ながら過去２年はコロナ渦のため中止していましたが、今年は初めての試みとしてWEB上で動画を限定公開しての新入児童・保護者歓迎会を企画しました。<br>
 校長先生と教頭先生からの新入生へのメッセージもご覧いただけますので、お子さんとご一緒に松ケ丘小学校の雰囲気を感じていただければと思います。<br>
@@ -51,19 +54,28 @@
 * 09:15 教頭先生挨拶
 * 09:39 校長室
 
+<br>
+
 ## おやじの会について
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QX2ztI6grJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<br>
 
 ## PTAクラブチーム紹介
 
+<br>
+
 ### ミニバス女子
+<br>
 <div>
 <img src="/img/event/202203_welcome/mini_basket_ball.jpg" width="500">
 </div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FgzO9ezI4O8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### :basketball: 松ヶ丘ミニバスケットボール女子スポーツ少年団 :basketball: 
-
+#### 松ヶ丘ミニバスケットボール女子スポーツ少年団
+<br>
 **【新規団員大募集中！】**<br>
 こんにちは！<br>
 私達は、松ヶ丘小学校体育館を拠点に活動している<br>
@@ -106,18 +118,24 @@
 * 持ち物:上履き・水筒・タオル・マスク
 * 服装:動きやすい服装（体操着など）
 
-※ 体験会の事前連絡は不要です。お気軽にお越し下さい♪
-
+体験会の事前連絡は不要です。お気軽にお越し下さい♪<br>
 まずは見学・体験から！<br>
 ご連絡はコチラまで。お待ちしております！<br>
 **松ヶ丘ミニバス**: [matsuminibas@yahoo.co.jp](mailto:matsuminibas@yahoo.co.jp)
 
 ### 守谷クラブ（ハンドボール）
-ハンドボール少年団守谷クラブです！！<br>ハンドボールとは「走る・飛ぶ・投げる」の運動の基礎となる3大要素をフルに使い、スピード感あふれる試合展開で得点を競い合う、とってもエキサイティングなスポーツです。 ハンドボールをとおして思いやりや自立心など精神的にも大きく成長できます！<br>
+
+#### ハンドボール少年団守谷クラブです！！
+
+ハンドボールとは「走る・飛ぶ・投げる」の運動の基礎となる3大要素をフルに使い、スピード感あふれる試合展開で得点を競い合う、とってもエキサイティングなスポーツです。 ハンドボールをとおして思いやりや自立心など精神的にも大きく成長できます！<br>
 主な活動日 毎週 水・金 17:00〜19:00 (高野小体育館) 毎週 土・日 9:00〜12:00 (高野小グラウンド) 土日のみの参加等、 ご都合に合わせて参加OKです!<br>
 （[パンフレット:PDF](/img/event/202203_welcome/handball_moriya_club.pdf)）<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3_NCZt5JE-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 松ケ丘エース（ソフトボール）
 
+<br>
+
 ### パパーズ（ソフトボール）
+
+<br>
