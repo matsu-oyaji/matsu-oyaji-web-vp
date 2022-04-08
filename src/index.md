@@ -17,6 +17,14 @@ footer: (c) 松ケ丘小学校おやじの会
 <br>
 「できるときに、できる事を、できる人が」が我々の合言葉です。土日仕事の会員さんもいますので、気軽に参加していただければと思います。<br>
 
+::: tip おやじの会公式LINEアカウント
+<div style="float:left">
+活動の報告やお知らせなどを配信しています。<br>
+応援フォローしてもらえるとうれしいです!<br>
+</div>
+<img src="https://qr-official.line.me/sid/M/peq7849q.png?shortenUrl=true" width="140">
+:::
+
 ### 主な年間の活動内容
 
 |  |  |
