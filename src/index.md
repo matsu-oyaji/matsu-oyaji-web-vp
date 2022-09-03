@@ -4,19 +4,19 @@ heroImage: /img/logo.gif
 footer: (c) 松ケ丘小学校おやじの会
 ---
 
-<div style="max-width: 80%; margin:auto">
-<a href="/img/event/202208_summer_fes/2022_matsu_oyaji_summer_fes.pdf">
-<img src="/img/event/202208_summer_fes/2022_summer_fes_info.png">
-</a>
+::: warning なつまつりアンケート実施中
+先日のなつまつりについてアンケートを実施しています。<br>
+皆さんの声がおやじたちの励みにもなりますのでぜひご協力のほどお願いします。<br>
+<a href="https://forms.gle/XWV5R7oZJFyMBRHi6" target="_blank">→ Googleフォームへジャンプします</a>
+:::
+
+::: warning おやじの会通信 第2号を発行しました
+昨年第1号を発行しましたおやじの会通信の第2号を発行しました。<br>
+学校のポータルサイトから配信していただいているものです。<br>
+<a href="/docs/letter/from_oyaji_vol_2.pdf">こちら</a>からもダウンロードできるようにしましたので読んでみてください。<br>
+<div style="max-width:40%; margin:5px;">
+<a href="/docs/letter/from_oyaji_vol_2.pdf"><img src="/img/202208_oyaji_letter_v2.png"></a>
 </div>
-
-::: warning なつまつり開催しました
-おかげさまで3年ぶりのなつまつりを無事開催することができました。<br>
-沢山の皆さんにお越しいただいて想像以上の大盛況となりました。<br>
-本当にありがとうございました。
-
-お子さんたちの楽しい夏の思い出の1つになれたとしたらおやじとしてこの上ない喜びです。<br>
-これからもおやじの会をどうぞよろしくお願いいたします。
 :::
 
 ## おやじの会とは
