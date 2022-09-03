@@ -4,6 +4,12 @@ heroImage: /img/logo.gif
 footer: (c) 松ケ丘小学校おやじの会
 ---
 
+::: warning なつまつりアンケート実施中
+先日のなつまつりについてアンケートを実施しています。<br>
+皆さんの声がおやじたちの励みにもなりますのでぜひご協力のほどお願いします。<br>
+<a href="https://forms.gle/XWV5R7oZJFyMBRHi6" target="_blank">→ Googleフォームへジャンプします</a>
+:::
+
 ::: warning おやじの会通信 第2号を発行しました
 昨年第1号を発行しましたおやじの会通信の第2号を発行しました。<br>
 学校のポータルサイトから配信していただいているものです。<br>
@@ -11,13 +17,6 @@ footer: (c) 松ケ丘小学校おやじの会
 <div style="max-width:40%; margin:5px;">
 <a href="/docs/letter/from_oyaji_vol_2.pdf"><img src="/img/202208_oyaji_letter_v2.png"></a>
 </div>
-:::
-
-::: warning なつまつりアンケート実施中
-なつまつりについてのアンケートを実施しています。<br>
-今後のおやじの会の活動や来年のなつまつりに役立てたいと思います。<br>
-皆さんの声がおやじたちの励みにもなりますのでぜひご協力のほどお願いします。<br>
-<a href="https://forms.gle/XWV5R7oZJFyMBRHi6" target="_blank">→ Googleフォームへジャンプします</a>
 :::
 
 ## おやじの会とは
