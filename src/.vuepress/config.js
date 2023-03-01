@@ -28,5 +28,11 @@ module.exports = {
             // { text: "リンク", link: "/links.html" },
             { text: "お問い合わせ", link: "/inquiry.html" }
         ],
-    }
+    },
+    plugins: [
+        [
+          '@vuepress/plugin-google-analytics',
+          {ga: 'G-N2DQM5FHTV'},
+        ]
+    ]
 };
