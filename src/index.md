@@ -27,7 +27,7 @@ footer: (c) 松ケ丘小学校おやじの会
 
 ::: warning おやじの会通信 第3号を発行しました (2023/07/19)
 おやじの会通信の第3号を発行しました。<br>
-7月19日に児童の皆さんには配布されています。また学校のポータルサイトでも同じものを配信していただいています。<br>
+7月19日に児童の皆さんには配布されています。<br>
 <div style="max-width:40%; margin:5px;">
 <a href="/docs/letter/from_oyaji_vol_3.pdf"><img src="/img/202307_oyaji_letter_v3.png"></a>
 </div>
