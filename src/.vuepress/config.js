@@ -22,7 +22,7 @@ module.exports = {
         nav: [
             { text: "ホーム", link: "/" },
             // { text: "活動内容", link: "/about/activities.html" },
-            { text: "校長先生より", link: "/about/principal.html" },
+            // { text: "校長先生より", link: "/about/principal.html" },
             { text: "おやじの会通信", link: "/letters.html" },
             { text: "会則", link: "/minutes.html" },
             // { text: "リンク", link: "/links.html" },
