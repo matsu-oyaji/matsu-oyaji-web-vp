@@ -1,9 +1,14 @@
 [build]
   command = "yarn build src"
   publish = "src/.vuepress/dist"
+  ignore = "false"
 
 [build.environment]
-  NODE_VERSION = "18.20.4"
+  NODE_VERSION = "16.20.2"
+  NPM_VERSION = "8.19.4"
+
+# Explicitly disable all plugins to avoid version conflicts
+[[plugins]]
 
 # Deploy contexts
 [context.production]
