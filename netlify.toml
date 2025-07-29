@@ -1,0 +1,16 @@
+[build]
+  command = "yarn build src"
+  publish = "src/.vuepress/dist"
+
+[build.environment]
+  NODE_VERSION = "18.20.4"
+
+# Deploy contexts
+[context.production]
+  command = "yarn build src"
+
+[context.deploy-preview]
+  command = "yarn build src"
+
+[context.branch-deploy]
+  command = "yarn build src"
