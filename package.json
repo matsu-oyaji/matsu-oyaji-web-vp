@@ -9,8 +9,8 @@
     "vuepress-theme-bootstrap": "^0.0.0-1"
   },
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "NODE_OPTIONS='--openssl-legacy-provider' vuepress dev src",
+    "build": "NODE_OPTIONS='--openssl-legacy-provider' vuepress build src"
   },
   "repository": "git@github.com:matsu-oyaji/matsu-oyaji-web-vp.git",
   "author": "Hiroaki Yoshida <yoshidaster@linecorp.com>"
