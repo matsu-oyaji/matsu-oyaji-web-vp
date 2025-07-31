@@ -4,7 +4,7 @@ heroImage: /img/logo.gif
 footer: (c) 松ケ丘小学校おやじの会
 ---
 
-::: tip 第16回おやじの会なつまつり 
+::: tip 第17回おやじの会なつまつり
 <div style="max-width: 80%; margin:auto">
 <a href="/img/event/202508_summer_fes/2025_matsu_oyaji_summer_fes.pdf">
 <img src="/img/event/202508_summer_fes/2025_summer_fes_info.png"></a>
@@ -20,15 +20,14 @@ footer: (c) 松ケ丘小学校おやじの会
 * [[第17回 松ケ丘小学校おやじの会なつまつり(PDF:350KB)](/img/event/202508_summer_fes/2025_matsu_oyaji_summer_fes.pdf)]
 
 ::: warning 重要なお知らせ
-**台風9号の接近に伴う開催可否について**
+**台風9号の接近に伴う開催可否について**（2025年8月1日9:00更新）
 
-8月2日の開催当日に台風9号が接近する可能性があります。  
-参加者の皆様の安全を最優先に考え、現在開催可否を協議中です。  
-開催の判断につきましては、**8月1日（金）の夕方頃**に本サイトおよび公式SNSにてお知らせいたします。
+現時点での予報では当日8月2日午後には安定した天候となる見込みであることから、**予定通り開催**する方向で準備しております。
+ただし今後の天候状況によっては開催時間の変更や中止をする場合がございますので、その際はこちらのHPにて適宜ご案内いたします。
+ご不便お掛けいたしますが、何卒よろしくお願いいたします。
 
 最新情報は以下でもご確認ください：
 - [Instagram](https://www.instagram.com/matsu.oyaji.moriya)
-- [LINE公式アカウント](https://lin.ee/nfztBh7I)
 :::
 
 ## おやじの会とは
@@ -49,9 +48,6 @@ footer: (c) 松ケ丘小学校おやじの会
 
 [[Instagram](https://www.instagram.com/matsu.oyaji.moriya)] <br>
 <img src="/img/qr_instagram.png" width="140">
-
-[[LINE](https://lin.ee/nfztBh7I)] <br>
-<img src="/img/qr_line.png" width="140">
 :::
 
 ### 主な年間の活動内容
