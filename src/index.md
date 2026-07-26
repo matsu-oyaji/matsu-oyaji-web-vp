@@ -8,6 +8,8 @@ footer: (c) 松ケ丘小学校おやじの会
 最新のお知らせや活動の報告などはインスタグラムで配信しています。<br>
 応援フォローしてもらえるとうれしいです!<br>
 
+_**8/1（土）開催の夏まつり最新情報もインスタグラムをチェック！**_
+
 [[Instagram](https://www.instagram.com/matsu.oyaji.moriya)] <br>
 <img src="/img/qr_instagram.png" width="140">
 :::
