@@ -15,6 +15,9 @@
     "dev": "NODE_OPTIONS='--openssl-legacy-provider' vuepress dev src",
     "build": "NODE_OPTIONS='--openssl-legacy-provider' vuepress build src"
   },
+  "resolutions": {
+    "prismjs": ">=1.30.0"
+  },
   "repository": "git@github.com:matsu-oyaji/matsu-oyaji-web-vp.git",
   "author": "Hiroaki Yoshida <yoshidaster@linecorp.com>"
 }
